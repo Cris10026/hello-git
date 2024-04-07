@@ -2,7 +2,7 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-- cris.10026
+
 - mouredev
 - braismoure
 - Abiezerk
@@ -1805,3 +1805,4 @@
 - Coccoliso
 - jaquearias
 - facadevv
+- cris.10026
